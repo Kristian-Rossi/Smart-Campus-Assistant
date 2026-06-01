@@ -1,0 +1,42 @@
+[
+  {
+    "room_id": "R001", 
+    "building": "Library", 
+    "capacity": 4, 
+    "availability": "Available",
+    "available_from": "09:00",
+    "available_until": "18:00"
+  },
+  {
+    "room_id": "R002", 
+    "building": "Library", 
+    "capacity": 6, 
+    "availability": "Booked",
+    "available_from": "09:00",
+    "available_until": "18:00"
+  },
+  {
+    "room_id": "R003", 
+    "building": "Engineering Block", 
+    "capacity": 10, 
+    "availability": "Available",
+    "available_from": "14:00",
+    "available_until": "18:00"
+  },
+  {
+    "room_id": "R004", 
+    "building": "Science Building", 
+    "capacity": 8, 
+    "availability": "Available",
+    "available_from": "13:00",
+    "available_until": "20:00"
+  },
+  {
+    "room_id": "R005", 
+    "building": "Arts Centre", 
+    "capacity": 5, 
+    "availability": "Booked",
+    "available_from": "12:00",
+    "available_until": "18:00"
+  }
+]

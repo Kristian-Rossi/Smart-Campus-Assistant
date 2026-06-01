@@ -1,0 +1,29 @@
+[
+    {
+        "item_id": "B001",
+        "item_name": "Laptop",
+        "student_id": "ST1001",
+        "student_name": "Alice Green",
+        "borrow_date": "2025-03-01",
+        "due_date": "2025-03-10",
+        "status": "Borrowed"
+    },
+    {
+        "item_id": "B002",
+        "item_name": "Microscope",
+        "student_id": "ST1002",
+        "student_name": "James Brown",
+        "borrow_date": "2025-03-03",
+        "due_date": "2025-03-12",
+        "status": "Borrowed"
+    },
+    {
+        "item_id": "B003",
+        "item_name": "Football Kit",
+        "student_id": "ST1003",
+        "student_name": "Sarah Lee",
+        "borrow_date": "2025-03-05",
+        "due_date": "2025-03-15",
+        "status": "Returned"
+    }
+]

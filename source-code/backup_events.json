@@ -1,0 +1,39 @@
+{
+    "events": [
+        {
+            "event_id": "E001",
+            "event_name": "AI Research Seminar",
+            "date": "2025-03-12",
+            "time": "10:00",
+            "location": "Main Auditorium"
+        },
+        {
+            "event_id": "E002",
+            "event_name": "Data Science Workshop",
+            "date": "2025-03-15",
+            "time": "14:00",
+            "location": "Lab 204"
+        },
+        {
+            "event_id": "E003",
+            "event_name": "Student Career Fair",
+            "date": "2025-03-20",
+            "time": "09:30",
+            "location": "Sports Hall"
+        },
+        {
+            "event_id": "E004",
+            "event_name": "Cybersecurity Awareness Talk",
+            "date": "2025-03-22",
+            "time": "11:00",
+            "location": "Room B101"
+        },
+        {
+            "event_id": "E005",
+            "event_name": "Sustainability Expo",
+            "date": "2025-03-25",
+            "time": "13:00",
+            "location": "Campus Green"
+        }
+    ]
+}
